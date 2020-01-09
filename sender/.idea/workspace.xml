@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0427735c-222e-47b7-8c00-0f41ed3694bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9fw5TCddk6ad0rH0MFdQ7DXdq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lyaev.sender.controller" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\RabbitSpringH2Annotation\sender\src\test\java" />
+      <recent name="D:\work\test_2\src\main\java\com\lyaev\sender\sevice" />
+      <recent name="D:\work\test_2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SenderApplication">
+    <configuration name="MessageRestControllerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.MessageRestControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageRestControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.MessageRestControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConnectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.RabbitConnectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConnectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.RabbitConnectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConnectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.RabbitConnectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConnectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.RabbitConnectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConnectTest.sendMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.RabbitConnectTest" />
+      <option name="METHOD_NAME" value="sendMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConnectTest.testSendMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyaev.sender.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyaev.sender.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.lyaev.sender.controller.RabbitConnectTest" />
+      <option name="METHOD_NAME" value="testSendMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SenderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sender" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyaev.sender.SenderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RabbitConnectTest" />
+        <item itemvalue="JUnit.RabbitConnectTest.testSendMsg" />
+        <item itemvalue="JUnit.RabbitConnectTest" />
+        <item itemvalue="JUnit.RabbitConnectTest" />
+        <item itemvalue="JUnit.RabbitConnectTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0427735c-222e-47b7-8c00-0f41ed3694bd" name="Default Changelist" comment="" />
+      <created>1578566966049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578566966049</updated>
+      <workItem from="1578566968959" duration="238000" />
+      <workItem from="1578567246301" duration="3614000" />
+      <workItem from="1578571580073" duration="7900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="290" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578568926959">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="516" y="290" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1578568926959" />
+    <state x="563" y="302" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578567565558">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="563" y="302" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.860@0.0.1440.860" timestamp="1578567565558" />
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578571646647">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1578571646647" />
+    <state x="499" y="172" key="FileChooserDialogImpl" timestamp="1578567091347">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="499" y="172" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1578567091347" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1578580957276">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957276" />
+    <state width="957" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1578580957276">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957276" />
+    <state width="957" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1578580957275">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957275" />
+    <state width="957" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1578580957276">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957276" />
+    <state width="957" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="957" height="222" key="GridCell.Tab.1.bottom" timestamp="1578580957273">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957273" />
+    <state width="957" height="222" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="957" height="222" key="GridCell.Tab.1.center" timestamp="1578580957273">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957273" />
+    <state width="957" height="222" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="957" height="222" key="GridCell.Tab.1.left" timestamp="1578580957273">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957273" />
+    <state width="957" height="222" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="957" height="222" key="GridCell.Tab.1.right" timestamp="1578580957273">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580957273" />
+    <state width="957" height="222" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1578572211699" />
+    <state width="1397" height="276" key="GridCell.Tab.2.bottom" timestamp="1578570862947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1578570862947" />
+    <state width="1397" height="276" key="GridCell.Tab.2.center" timestamp="1578570862947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1578570862947" />
+    <state width="1397" height="276" key="GridCell.Tab.2.left" timestamp="1578570862947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1578570862947" />
+    <state width="1397" height="276" key="GridCell.Tab.2.right" timestamp="1578570862947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1578570862947" />
+    <state x="491" y="149" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578577943105">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="491" y="149" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578577943105" />
+    <state x="417" y="28" width="606" height="804" key="find.popup" timestamp="1578579463538">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="417" y="28" width="606" height="804" key="find.popup/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578579463538" />
+    <state x="417" y="28" width="606" height="804" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1578569476599" />
+    <state x="102" y="0" key="new project wizard" timestamp="1578567111573">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="102" y="0" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1578567111573" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578569459972">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1578569459972" />
+  </component>
+</project>
