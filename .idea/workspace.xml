@@ -2,57 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75b988e1-4de6-4f02-9c01-bfcc60bd0e2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/H2writerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/configuration/RabbitConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/model/MessageEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/repository/MessageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/sevice/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/sevice/RabbitMqListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/test/java/com/lyaev/h2writer/repository/MessageRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/src/test/java/com/lyaev/h2writer/sevice/MessageServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/META-INF/h2writer.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/H2writerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/configuration/RabbitConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/model/MessageEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/repository/MessageRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/sevice/MessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/sevice/RabbitMqListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/test-classes/com/lyaev/h2writer/repository/MessageRepositoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/test-classes/com/lyaev/h2writer/sevice/MessageServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2writer/target/test-classes/com/lyaev/h2writer/sevice/RabbitMqListenerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/src/main/java/com/lyaev/sender/SenderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/src/main/java/com/lyaev/sender/configuration/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/src/main/java/com/lyaev/sender/configuration/RabbitConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/src/main/java/com/lyaev/sender/controller/MessageRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/src/test/java/com/lyaev/sender/controller/MessageRestControllerJUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/src/test/java/com/lyaev/sender/controller/MessageRestControllerMockMvcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/src/test/java/com/lyaev/sender/controller/RabbitConnectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/classes/META-INF/sender.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/classes/com/lyaev/sender/SenderApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/classes/com/lyaev/sender/configuration/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/classes/com/lyaev/sender/configuration/RabbitConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/classes/com/lyaev/sender/controller/MessageRestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/test-classes/META-INF/sender.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/test-classes/com/lyaev/sender/controller/MessageRestControllerJUnitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/test-classes/com/lyaev/sender/controller/MessageRestControllerMockMvcTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sender/target/test-classes/com/lyaev/sender/controller/RabbitConnectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webForm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h2writer/src/test/java/com/lyaev/h2writer/sevice/RabbitSendAndReceveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2writer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/h2writer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/configuration/RabbitConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/configuration/RabbitConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/sevice/RabbitMqListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/h2writer/src/main/java/com/lyaev/h2writer/sevice/RabbitMqListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/configuration/RabbitConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/configuration/RabbitConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/sevice/RabbitMqListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/h2writer/target/classes/com/lyaev/h2writer/sevice/RabbitMqListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2writer/target/test-classes/com/lyaev/h2writer/sevice/RabbitMqListenerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/h2writer/target/test-classes/com/lyaev/h2writer/sevice/RabbitMqListenerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sender/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sender/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sender/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sender/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,21 +56,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578580968821</updated>
-      <workItem from="1578580969966" duration="255000" />
+      <workItem from="1578580969966" duration="869000" />
+      <workItem from="1578635438466" duration="1239000" />
     </task>
+    <task id="LOCAL-00001" summary="Another variant">
+      <created>1578581267940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578581267941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Another variant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another variant" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="500" y="172" key="FileChooserDialogImpl" timestamp="1578580986795">
+    <state x="326" y="25" key="CommitChangelistDialog2" timestamp="1578581265924">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state x="326" y="25" key="CommitChangelistDialog2/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578581265924" />
+    <state x="667" y="208" key="FileChooserDialogImpl" timestamp="1578635533220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="208" key="FileChooserDialogImpl/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1578635533220" />
     <state x="500" y="172" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578580986795" />
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1578581224144">
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1578581275960">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578581224144" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860/1440.0.1920.1040@0.0.1440.860" timestamp="1578581275960" />
+    <state x="-1025" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1578635500847">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="-1025" y="254" key="com.intellij.ide.util.TipDialog/-1440.0.1440.860/0.0.1920.1040@-1440.0.1440.860" timestamp="1578635500847" />
   </component>
 </project>

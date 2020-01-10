@@ -36,4 +36,9 @@ public class RabbitConfiguration {
         return new Queue("queue1");
     }
 
+    @Bean
+    public Queue myQueueTest() {
+        return new Queue("queueTest");
+    }
+
 }

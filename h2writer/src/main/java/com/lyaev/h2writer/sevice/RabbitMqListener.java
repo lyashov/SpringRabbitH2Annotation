@@ -18,6 +18,6 @@ public class RabbitMqListener {
     @RabbitListener(queues = "queue1")
     public void processQueue1(String message) {
         messageService.saveMessage(message);
-        LOGGER.info("Received from queue 1: " + message);
+        LOGGER.info("Received message: " + message);
     }
 }
